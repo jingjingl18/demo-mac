@@ -1,7 +1,4 @@
-
-import math as m
 import sys
-from os import rename
 
 import requests
 from pandas import to_datetime
@@ -11,7 +8,7 @@ print(sys.executable)
 
 
 def greet(whomm_to_greet):
-    
+
     greeting = 'Hello, {}'.format(whomm_to_greet)
     return greeting
 
