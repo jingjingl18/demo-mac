@@ -7,3 +7,5 @@ print("master")
 print(a)
 
 b = 5
+
+d = 7
