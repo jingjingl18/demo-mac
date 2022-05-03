@@ -2,3 +2,5 @@ hello world
 hello Singapore
 hello Tuesday
 hello main
+hello good day
+hello good weather
