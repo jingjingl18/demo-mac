@@ -1,7 +1,8 @@
 hello world
 hello Singapore
-hello Tuesday
+hello Wednesday
 hello main
 hello good day
-hello good weather
+hello cloudy weather
 hello botanic garden
+hello test
