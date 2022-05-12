@@ -1,6 +1,6 @@
 hello world
 hello Singapore
-hello Wednesday
+hello Thursday
 hello main
 hello good day
 hello cloudy weather
